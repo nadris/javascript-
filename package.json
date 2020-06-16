@@ -1,0 +1,16 @@
+{
+  "name": "demo-day",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Never Adrian Sossa",
+  "license": "ISC",
+  "dependencies": {
+    "grsnclc": "^1.3.0",
+    "text-upper-case": "^1.0.0",
+    "to-case": "^2.0.0"
+  }
+}
