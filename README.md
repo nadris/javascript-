@@ -1,7 +1,9 @@
 
 LIBRERIAS UTILIZADAS EN EL PROYECTO SIMPLE JS 
 con commonjs👩‍💻👨‍💻⚡
-![Scheme](images/carbon.png) { width=50% }
+Ejercicos realizados con javasccript como tambien manejo de arreglos, ES6
+
+![Scheme](images/carbon.png)
   - https://www.npmjs.com/package/img-dataset
   - https://www.npmjs.com/package/text-upper-case
 
