@@ -1,7 +1,8 @@
 
-LIBRERIAS UTILIZADAS EN EL PROYECTO SIMPLE JS 
-con commonjs👩‍💻👨‍💻⚡
-Ejercicos realizados con javasccript como tambien manejo de arreglos, ES6
+## manejo de JS con arreglo,commonjs👩‍💻👨‍💻⚡
+1. Ejercicios realizados con javasccript como tambien manejo de arreglos, ES6.
+2. Manejo de npm
+3. Arreglos
 
 ![Scheme](images/carbon.png)
   - https://www.npmjs.com/package/img-dataset
